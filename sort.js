@@ -21,3 +21,9 @@ function insertionSort(arr){
 console.log(insertionSort([23, 1, 10, 5, 2]));
 
 // Output : [ 1, 2, 5, 10, 23 ]
+
+function addVal(a, b) {
+    return a + b;
+}
+
+console.log(addVal(5, 9));
